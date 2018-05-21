@@ -1,0 +1,22 @@
+{
+  "name": "pb-templates",
+  "version": "1.0.0",
+  "description": "helps take the tedium out of static html web design",
+  "main": "index.js",
+  "bin": {
+    "pb-temp": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jckuhl/templating.git"
+  },
+  "author": "Jonathan Kuhl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jckuhl/templating/issues"
+  },
+  "homepage": "https://github.com/jckuhl/templating#readme"
+}
