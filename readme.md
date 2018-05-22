@@ -4,14 +4,14 @@ Ever make a basic static website in HTML only to get stuck keeping the HTML in y
 
 Templates is a project that lets you mark your HTML.
 
-Write your template in a file that ends with name._template.txt_.
+Write your template in a file that ends with name._template.html_.
 
 In your code, surround the place you use the template with:
 
-`<--<template: name="filename">-->`
+`<!--<template: name="filename">-->`
 
 And end it with:
 
-`<--<end-template: name="filename">-->`
+`<!--<end-template: name="filename">-->`
 
-Where _filename_ is the name of your .template.txt.
+Where _filename_ is the name of your .template.html.
